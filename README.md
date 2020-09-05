@@ -1,1 +1,3 @@
 # HackerRank_30Days_Python_Challenge-
+
+The repositry contains all the solutions of the HackerRank 30 Days Challenge in Python Programming Language....
